@@ -804,8 +804,8 @@ fieldset {
 }
 
 .container2 {
-    width: 50%;
-    margin: 20px 0px 10px;
+    width: 80%;
+    margin: 20px;
 }
 
 @keyframes load {
@@ -833,7 +833,7 @@ fieldset {
 }
 
 .bar {
-    background-color: none;
+    background-color: ;
     height: 10px;
     padding: 0px;
     border-radius: 20px;
@@ -869,7 +869,7 @@ fieldset {
 }
 
 .bar.basic::before {
-    width: calc(40% - 10px);
+    width: calc(60% - 10px);
 }
 
 .bar.intermediate::before {
