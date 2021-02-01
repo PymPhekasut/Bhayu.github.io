@@ -38,8 +38,9 @@ font-family: 'Open Sans', sans-serif;
 
 h1 {
     font-family: 'Playfair Display', serif;
-    font-size: 80px;
+    font-size: 45px;
     line-height: 70px;
+    margin-left: -80px;
 }
 
 h4 {
@@ -48,7 +49,7 @@ h4 {
     letter-spacing: 2px;
     position: relative;
     color: #425BB5;
-    margin-left: 40px;
+    margin-left: 80px;
     font-weight: 700;
 }
 
@@ -282,7 +283,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-2.jpg);
+    background: url(../img/1303472.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -311,7 +312,7 @@ a.active {
 
 .about-border {
     position: absolute;
-    border: 10px solid #425BB5;
+    border: 10px solid #dacebb;
     width: 400px;
     height: 400px;
     top: 40px;
