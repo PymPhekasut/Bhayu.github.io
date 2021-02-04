@@ -844,7 +844,7 @@ fieldset {
     padding: 0px;
     border-radius: 20px;
     margin: 20px;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: bold;
     color: #5e5e5e;
 }
@@ -863,7 +863,7 @@ fieldset {
 }
 
 .bar.front::before {
-    background-color: #dddbdb;
+    background-color: #b3b1b1;
 }
 
 .bar.back::before {
