@@ -890,3 +890,8 @@ fieldset {
 .bar.expert::before {
     width: calc(80% - 10px);
 }
+
+.col-md-4 col-sm-6 ads graphics img {
+    width: 300px;
+    height: 250px;
+}
