@@ -871,7 +871,7 @@ fieldset {
 }
 
 .bar.learning::before {
-    width: calc(20% - 10px);
+    width: calc(50% - 10px);
 }
 
 .bar.basic::before {
